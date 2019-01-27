@@ -1,0 +1,3 @@
+# bk-rent-stabilization-map
+
+I made an interactive map showing the distribution of rent stabilized buildings in Brooklyn in 2016. You can view the map [here](http://htmlpreview.github.com/?https://github.com/eboeke/bk-rent-stabilization-map/blob/master/stabil_map.htm). I used the rent stabilized building [list](https://www1.nyc.gov/site/rentguidelinesboard/resources/rent-stabilized-building-lists.page) put out by NYC Housing Preservation and Development (HPD) to compute the number of stabilized buildings per zip code, and obtained information on total number of buildings per zip code via the NYC OpenData [website](https://data.cityofnewyork.us/Housing-Development/Housing-New-York-Units-by-Building/hg8x-zxpr).
